@@ -1,0 +1,12 @@
+{
+<<<<<<< HEAD
+    "java.configuration.updateBuildConfiguration": "interactive"
+=======
+    "problems.visibility": true,
+    "workbench.secondarySideBar.showLabels": true,
+    "terminal.integrated.commandsToSkipShell": [
+        ""
+    ],
+    "workbench.activityBar.iconClickBehavior": "toggle"
+>>>>>>> 9fb34a4be5ea9ef0013fa8e349dfca52ccc6b985
+}
